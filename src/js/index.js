@@ -1,11 +1,8 @@
-// Галерея и лайтбоксы от Fancybox
-import { Fancybox } from '@fancyapps/ui';
-import '@fancyapps/ui/dist/fancybox/fancybox.css';
+import megaMenu from './modules/mega-menu.js';
+megaMenu();
 
-Fancybox.bind('[data-fancybox]', {
-	// Your custom options
-});
-
-// Мобильная навигация
-import mobileNav from './modules/mobile-nav.js';
-mobileNav();
+// Вызов функции для работы слайдера
+import bannerSlider from './modules/banner.js';
+bannerSlider();
+import popalarSlider from './modules/bannertwo.js';
+popalarSlider();

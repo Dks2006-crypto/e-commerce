@@ -9,13 +9,13 @@
 	--color-background-secondary: #f1f1f1; /* основной фоновый второчный цвет */
 	--color-foreground: #F9E548; 			/* дополнительный фоновый цвет */
 	--color-foreground-secondary: #EAEDF1; /* дополнительный фоновый вторичный цвет */
-	--color-text: #444444; 				/* основной цвет текста */
+	--color-text: #444; 				/* основной цвет текста */
 	--color-text-secondary: #737373; 		/* основной цвет вторичного текста */
-	--color-border: #a8a8a8; 				/* цвет обводки */
-	--color-separator: #444444;			/* цвет вторичной обводки */
+	--color-border: #A8A8A8; 				/* цвет обводки */
+	--color-separator: #444;				/* цвет вторичной обводки */
 	--color-ghost: #eef2f7; 				/* полупрозрачный цвет */
 	--color-ghost-secondary: #cbd7e7; 		/* полупрозрачный вторичный цвет */
-	--color-primary: #1ca342; 				/* основной акцентный цвет */
+	--color-primary: #1CA342; 				/* основной акцентный цвет */
 	--color-primary-secondary: #F9E449;	/* вторичный акцентный цвет */
 	--color-card: #fff; 					/* основной фоновый цвет блока */
 	--color-card-secondary: #ccc; 			/* основной фоновый цвет вторичного блока */
@@ -23,7 +23,7 @@
 
 	// rounded var
 	--rounded-sm: 4px;						
-	--rounded-md: 8px;
+	--rounded-md: 7px;
 	--rounded-lg: 12px;
 	--rounded-xl: 16px;
 }
